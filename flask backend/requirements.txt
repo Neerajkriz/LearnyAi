@@ -1,0 +1,4 @@
+flask 
+requests
+huggingface-hub
+pillow
