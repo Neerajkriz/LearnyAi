@@ -48,7 +48,7 @@ To run the project locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/LearnyAi.git
+git clone https://github.com/Neerajkriz/LearnyAi.git
 cd learny.ai-main
 
 # Set up the frontend
